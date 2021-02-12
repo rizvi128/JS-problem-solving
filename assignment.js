@@ -67,8 +67,8 @@ function megaFriend(listOfFriend){
     var longestWord = 0;
     for (let i = 0; i < listOfFriend.length; i++) {
         if(listOfFriend[i].length >longestWord){
-             var longestWord = listOfFriend[i].length
-             longestWord = listOfFriend[i];
+            longestWord = listOfFriend[i].length
+             
 
 
          }
